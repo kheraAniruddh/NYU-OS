@@ -1,0 +1,18 @@
+Use gcc-5.2.0 only (CRACKLE module load gcc-5.2.0)
+Run make command to run the makefile
+
+After it ran successfully, mainoutput file will be created
+
+type:
+./mainoutput <filename_path> 
+# example 
+./mainoutput /home/cloudera/Desktop/lab1/input-1
+
+OR 
+
+To Run script
+/runit.sh <output path> <mainoutput path>
+#example
+./runit.sh /home/cloudera/Desktop/output /home/cloudera/Desktop/mainoutput
+
+Finally run diffit

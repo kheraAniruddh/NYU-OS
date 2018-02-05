@@ -1,0 +1,7 @@
+This project contains the code including makefile for the lab-4 assignment on I/O Scheduling. Brief description on the committed files:
+
+1.The iosched-summer2017.pdf contains the description what needs to be done in the assignment.
+2.TestData.tar.Z contains the sample inputs and required outputs
+3.Code folder contains the code including the make file. Just enter make on commandline/terminal which will generate the .mainoutput file. Use this file with the exact command as described in the assignment. Ex: ./mainoutput ./input-1 
+Note: Compatible with GCC/G++ compiler v5.20
+4.Accuracy or marks obtained based on this code: 100
